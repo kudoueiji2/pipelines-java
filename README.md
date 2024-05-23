@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/nc-o-dps-azure-027-sysperf/sysperf/_apis/build/status%2Fkudoueiji2.pipelines-java?branchName=main)](https://dev.azure.com/nc-o-dps-azure-027-sysperf/sysperf/_build/latest?definitionId=1&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
